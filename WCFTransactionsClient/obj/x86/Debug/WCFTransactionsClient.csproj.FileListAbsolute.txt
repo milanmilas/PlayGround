@@ -1,0 +1,8 @@
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\WCFTransactionsClient\bin\Debug\WCFTransactionsClient.exe
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\WCFTransactionsClient\bin\Debug\WCFTransactionsClient.pdb
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\WCFTransactionsClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\WCFTransactionsClient\obj\x86\Debug\WCFTransactionsClient.Properties.Resources.resources
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\WCFTransactionsClient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\WCFTransactionsClient\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\WCFTransactionsClient\obj\x86\Debug\WCFTransactionsClient.exe
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\WCFTransactionsClient\obj\x86\Debug\WCFTransactionsClient.pdb

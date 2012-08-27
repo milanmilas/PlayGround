@@ -1,0 +1,14 @@
+M:\Visual Studio 2010 Workspace\Playground\MapperEnumTypes\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\Visual Studio 2010 Workspace\Playground\MapperEnumTypes\bin\Debug\MapperEnumTypes.exe.config
+M:\Visual Studio 2010 Workspace\Playground\MapperEnumTypes\bin\Debug\MapperEnumTypes.exe
+M:\Visual Studio 2010 Workspace\Playground\MapperEnumTypes\bin\Debug\MapperEnumTypes.pdb
+M:\Visual Studio 2010 Workspace\Playground\MapperEnumTypes\bin\Debug\AutoMapper.dll
+M:\Visual Studio 2010 Workspace\Playground\MapperEnumTypes\obj\x86\Debug\MapperEnumTypes.exe
+M:\Visual Studio 2010 Workspace\Playground\MapperEnumTypes\obj\x86\Debug\MapperEnumTypes.pdb
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\MapperEnumTypes\bin\Debug\MapperEnumTypes.exe.config
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\MapperEnumTypes\bin\Debug\MapperEnumTypes.exe
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\MapperEnumTypes\bin\Debug\MapperEnumTypes.pdb
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\MapperEnumTypes\bin\Debug\AutoMapper.dll
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\MapperEnumTypes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\MapperEnumTypes\obj\x86\Debug\MapperEnumTypes.exe
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\MapperEnumTypes\obj\x86\Debug\MapperEnumTypes.pdb

@@ -1,0 +1,12 @@
+M:\Visual Studio 2010 Workspace\Playground\WcfServiceClient\bin\Debug\WcfServiceClient.exe.config
+M:\Visual Studio 2010 Workspace\Playground\WcfServiceClient\bin\Debug\WcfServiceClient.exe
+M:\Visual Studio 2010 Workspace\Playground\WcfServiceClient\bin\Debug\WcfServiceClient.pdb
+M:\Visual Studio 2010 Workspace\Playground\WcfServiceClient\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\Visual Studio 2010 Workspace\Playground\WcfServiceClient\obj\x86\Debug\WcfServiceClient.exe
+M:\Visual Studio 2010 Workspace\Playground\WcfServiceClient\obj\x86\Debug\WcfServiceClient.pdb
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\WcfServiceClient\bin\Debug\WcfServiceClient.exe.config
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\WcfServiceClient\bin\Debug\WcfServiceClient.exe
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\WcfServiceClient\bin\Debug\WcfServiceClient.pdb
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\WcfServiceClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\WcfServiceClient\obj\x86\Debug\WcfServiceClient.exe
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\WcfServiceClient\obj\x86\Debug\WcfServiceClient.pdb

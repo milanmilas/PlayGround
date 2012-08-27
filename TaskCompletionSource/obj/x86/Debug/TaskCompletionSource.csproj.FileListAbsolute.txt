@@ -1,0 +1,9 @@
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\TaskCompletionSource\bin\Debug\TaskCompletionSource.exe
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\TaskCompletionSource\bin\Debug\TaskCompletionSource.pdb
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\TaskCompletionSource\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\TaskCompletionSource\obj\x86\Debug\TaskCompletionSource.exe
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\TaskCompletionSource\obj\x86\Debug\TaskCompletionSource.pdb
+C:\Dropbox\Documents\Programming\Projects\Playground\TaskCompletionSource\bin\Debug\TaskCompletionSource.exe
+C:\Dropbox\Documents\Programming\Projects\Playground\TaskCompletionSource\bin\Debug\TaskCompletionSource.pdb
+C:\Dropbox\Documents\Programming\Projects\Playground\TaskCompletionSource\obj\x86\Debug\TaskCompletionSource.exe
+C:\Dropbox\Documents\Programming\Projects\Playground\TaskCompletionSource\obj\x86\Debug\TaskCompletionSource.pdb

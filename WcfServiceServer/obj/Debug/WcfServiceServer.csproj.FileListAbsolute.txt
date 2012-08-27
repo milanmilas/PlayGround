@@ -1,0 +1,10 @@
+M:\Visual Studio 2010 Workspace\Playground\WcfServiceServer\bin\WcfServiceServer.dll
+M:\Visual Studio 2010 Workspace\Playground\WcfServiceServer\bin\WcfServiceServer.pdb
+M:\Visual Studio 2010 Workspace\Playground\WcfServiceServer\obj\Debug\ResolveAssemblyReference.cache
+M:\Visual Studio 2010 Workspace\Playground\WcfServiceServer\obj\Debug\WcfServiceServer.dll
+M:\Visual Studio 2010 Workspace\Playground\WcfServiceServer\obj\Debug\WcfServiceServer.pdb
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\WcfServiceServer\bin\WcfServiceServer.dll
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\WcfServiceServer\bin\WcfServiceServer.pdb
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\WcfServiceServer\obj\Debug\ResolveAssemblyReference.cache
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\WcfServiceServer\obj\Debug\WcfServiceServer.dll
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\WcfServiceServer\obj\Debug\WcfServiceServer.pdb

@@ -1,0 +1,53 @@
+﻿
+
+@*<link href="../../Assets/site.css" rel="stylesheet" type="text/css" />*@
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js" type="text/javascript"></script> 
+
+
+<script type="text/javascript">
+    if (typeof jQuery == 'undefined') {
+        document.write(unescape("%3Cscript src='../../Scripts/jquery-1.5.1.min.js' type='text/javascript'%3E%3C/script%3E"));
+    }
+</script>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+//        $('#redDiv').css("background-color", "Red");
+    });
+</script>
+
+<html>
+    <head>
+        <link href="@Url.Content("~/Assets/site.css")" rel="stylesheet" type="text/css" /> 
+        <title>Home</title>
+    </head>
+<body>
+    <div id="blueDiv" class = "blueDivClass">
+        This is a 1 Blue Div.
+        <div id="11"  class = "blueDivClass11">
+            This is a 11 Div.
+            <div id="111"  class = "blueDivClass111">
+                This is a 111 Div.
+            </div>
+        </div>
+        <div id="12" class="blueDivClas12">
+            This is a 12 Div
+        </div>
+    </div>
+    <div id="redDiv" class = "redDivClass">
+        This is a 2 Green Div.
+    </div>
+    <div id="greenDiv" class = "greenDivClass">
+        This is a 3 Green Div.
+    </div>
+    <div id="yellowDiv" class = "yellowDivClass">
+        This is a 4 Yellow Div.
+    </div>
+</body>
+</html>

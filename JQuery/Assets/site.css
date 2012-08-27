@@ -1,0 +1,60 @@
+﻿.blueDivClass
+{
+    margin: 5px;
+    background-color: #0066FF;
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    top: 50px;
+    left: 50px;
+}
+
+.blueDivClass11
+{
+    margin: 5px;
+    background-color: #00caff;
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    top: 50px;
+    left: 50px;
+}
+
+.blueDivClass111
+{
+    margin: 5px;
+    background-color: #00fff3;
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    top: 50px;
+    left: 50px;
+}
+
+.blueDivClas12 {
+    margin: 5px;
+    background-color: #ffb600;
+    position: static;
+
+}
+
+.redDivClass
+{
+    background-color: #FF0066;
+}
+.greenDivClass
+{
+    background-color: #339933;
+}
+.yellowDivClass
+{
+    background-color: #FFFF00;
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    top: 50px;
+    left: 400px;
+}
+input
+{
+}

@@ -1,0 +1,14 @@
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\MusicStoreMVC\bin\MusicStoreMVC.dll
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\MusicStoreMVC\bin\MusicStoreMVC.pdb
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\MusicStoreMVC\bin\EntityFramework.dll
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\MusicStoreMVC\bin\EntityFramework.xml
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\MusicStoreMVC\obj\Debug\ResolveAssemblyReference.cache
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\MusicStoreMVC\obj\Debug\MusicStoreMVC.dll
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\MusicStoreMVC\obj\Debug\MusicStoreMVC.pdb
+C:\Dropbox\Documents\Programming\Projects\Playground\MusicStoreMVC\bin\MusicStoreMVC.dll
+C:\Dropbox\Documents\Programming\Projects\Playground\MusicStoreMVC\bin\MusicStoreMVC.pdb
+C:\Dropbox\Documents\Programming\Projects\Playground\MusicStoreMVC\bin\EntityFramework.dll
+C:\Dropbox\Documents\Programming\Projects\Playground\MusicStoreMVC\bin\EntityFramework.xml
+C:\Dropbox\Documents\Programming\Projects\Playground\MusicStoreMVC\obj\Debug\MusicStoreMVC.dll
+C:\Dropbox\Documents\Programming\Projects\Playground\MusicStoreMVC\obj\Debug\MusicStoreMVC.pdb
+C:\Dropbox\Documents\Programming\Projects\Playground\MusicStoreMVC\obj\Debug\MusicStoreMVC.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\WcfTransactionsServer\bin\WcfTransactionsServer.dll
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\WcfTransactionsServer\bin\WcfTransactionsServer.pdb
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\WcfTransactionsServer\obj\Debug\ResolveAssemblyReference.cache
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\WcfTransactionsServer\obj\Debug\WcfTransactionsServer.dll
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\WcfTransactionsServer\obj\Debug\WcfTransactionsServer.pdb

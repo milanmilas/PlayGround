@@ -1,0 +1,356 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="D05ECDD8-A68F-467D-9C6C-AB245104CB9E/f:Program.cs" caret="1402" fromTop="34" />
+      <File id="08BB1F48-BFE3-4635-9583-CB773D693CBB/f:TextFile1.txt/s:..?TextFile1.txt" caret="0" fromTop="0" />
+      <File id="32C94BE5-A23F-4B80-8944-7F164EEF4533/f:Program.cs" caret="891" fromTop="2" />
+      <File id="756DF5FA-36E2-4E9C-AC76-D20E4B21377E/f:app.config" caret="0" fromTop="0" />
+      <File id="F2ED701F-7C70-4E34-B6C0-213BECCAE214/f:Program.cs" caret="391" fromTop="16" />
+      <File id="756DF5FA-36E2-4E9C-AC76-D20E4B21377E/f:Program.cs" caret="137" fromTop="10" />
+      <File id="EC946A9F-33BF-44F8-8E3D-25859A22595B/f:Program.cs" caret="554" fromTop="12" />
+      <File id="B3BF9C0A-9E91-408B-8FA5-8E6179EB5C20/f:Monitor.cs" caret="1817" fromTop="17" />
+      <File id="B1E9F3A5-5554-4792-A0B1-5141F405561F/f:IService1.cs" caret="866" fromTop="23" />
+      <File id="942C8F86-F876-4390-9B41-6636C2216F14/f:Program.cs" caret="765" fromTop="16" />
+      <File id="28F8C5BB-9458-4DC6-BFA5-07E36EDAF15A/f:Program.cs" caret="554" fromTop="19" />
+      <File id="1B8F6B78-7C1A-4181-9DFF-63128EAA572F/f:Program.cs" caret="668" fromTop="20" />
+      <File id="F4FB939E-5BBD-4324-9B42-D9658BDFD4F5/f:Program.cs" caret="224" fromTop="9" />
+      <File id="865D82A5-EA92-42E3-BDC7-359C1F3EC3F4/f:Program.cs" caret="351" fromTop="0" />
+      <File id="B3BF9C0A-9E91-408B-8FA5-8E6179EB5C20/f:Web.config" caret="20590" fromTop="23" />
+      <File id="162FE4B0-9F13-44DE-96F6-DE2E7193C012/f:app.config" caret="205" fromTop="5" />
+      <File id="B1E9F3A5-5554-4792-A0B1-5141F405561F/f:Service1.svc.cs" caret="663" fromTop="23" />
+      <File id="EDEF1224-E616-4DEE-9D50-477FAFD31270/f:Program.cs" caret="139" fromTop="7" />
+      <File id="B1E9F3A5-5554-4792-A0B1-5141F405561F/f:Web.config" caret="0" fromTop="0" />
+      <File id="1938BEAA-FEF2-4967-BF41-FB4A5EA02D9F/f:Program.cs" caret="534" fromTop="20" />
+      <File id="1938BEAA-FEF2-4967-BF41-FB4A5EA02D9F/f:TypingTest.cs" caret="671" fromTop="28" />
+      <File id="162FE4B0-9F13-44DE-96F6-DE2E7193C012/f:Impersonator.cs" caret="1423" fromTop="14" />
+      <File id="162FE4B0-9F13-44DE-96F6-DE2E7193C012/f:Program.cs" caret="268" fromTop="13" />
+      <File id="00E3975A-2A67-46F6-9FBD-193EA5041472/f:Program.cs" caret="273" fromTop="10" />
+      <File id="F87CB89D-C451-4B59-8714-1B5798769D62/f:Program.cs" caret="723" fromTop="21" />
+      <File id="3F9289C0-9857-420B-A3B8-FE6F16DE96D6/f:Program.cs" caret="509" fromTop="17" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="162FE4B0-9F13-44DE-96F6-DE2E7193C012/f:Program.cs" caret="923" fromTop="21" />
+      <File id="162FE4B0-9F13-44DE-96F6-DE2E7193C012/f:Program.cs" caret="1988" fromTop="34" />
+      <File id="162FE4B0-9F13-44DE-96F6-DE2E7193C012/f:Program.cs" caret="2083" fromTop="33" />
+      <File id="162FE4B0-9F13-44DE-96F6-DE2E7193C012/f:Program.cs" caret="1733" fromTop="22" />
+      <File id="162FE4B0-9F13-44DE-96F6-DE2E7193C012/f:Program.cs" caret="2451" fromTop="21" />
+      <File id="162FE4B0-9F13-44DE-96F6-DE2E7193C012/f:Program.cs" caret="1286" fromTop="26" />
+      <File id="162FE4B0-9F13-44DE-96F6-DE2E7193C012/f:Program.cs" caret="1526" fromTop="26" />
+      <File id="162FE4B0-9F13-44DE-96F6-DE2E7193C012/f:Program.cs" caret="1056" fromTop="19" />
+      <File id="162FE4B0-9F13-44DE-96F6-DE2E7193C012/f:Program.cs" caret="473" fromTop="12" />
+      <File id="162FE4B0-9F13-44DE-96F6-DE2E7193C012/f:Program.cs" caret="826" fromTop="12" />
+      <File id="1938BEAA-FEF2-4967-BF41-FB4A5EA02D9F/f:Program.cs" caret="552" fromTop="13" />
+      <File id="B1E9F3A5-5554-4792-A0B1-5141F405561F/f:Service1.svc.cs" caret="615" fromTop="21" />
+      <File id="B1E9F3A5-5554-4792-A0B1-5141F405561F/f:Service1.svc.cs" caret="615" fromTop="23" />
+      <File id="B1E9F3A5-5554-4792-A0B1-5141F405561F/f:Service1.svc.cs" caret="444" fromTop="5" />
+      <File id="B1E9F3A5-5554-4792-A0B1-5141F405561F/f:Service1.svc.cs" caret="1061" fromTop="24" />
+      <File id="B1E9F3A5-5554-4792-A0B1-5141F405561F/f:Service1.svc.cs" caret="672" fromTop="23" />
+      <File id="EDEF1224-E616-4DEE-9D50-477FAFD31270/f:Program.cs" caret="269" fromTop="12" />
+      <File id="1938BEAA-FEF2-4967-BF41-FB4A5EA02D9F/f:TypingTest.cs" caret="657" fromTop="29" />
+      <File id="1938BEAA-FEF2-4967-BF41-FB4A5EA02D9F/f:TypingTest.cs" caret="232" fromTop="10" />
+      <File id="1938BEAA-FEF2-4967-BF41-FB4A5EA02D9F/f:TypingTest.cs" caret="631" fromTop="21" />
+      <File id="1938BEAA-FEF2-4967-BF41-FB4A5EA02D9F/f:TypingTest.cs" caret="519" fromTop="18" />
+      <File id="3F9289C0-9857-420B-A3B8-FE6F16DE96D6/f:Program.cs" caret="574" fromTop="17" />
+      <File id="3F9289C0-9857-420B-A3B8-FE6F16DE96D6/f:Program.cs" caret="574" fromTop="22" />
+      <File id="3F9289C0-9857-420B-A3B8-FE6F16DE96D6/f:Program.cs" caret="574" fromTop="13" />
+      <File id="3F9289C0-9857-420B-A3B8-FE6F16DE96D6/f:Program.cs" caret="671" fromTop="35" />
+      <File id="3F9289C0-9857-420B-A3B8-FE6F16DE96D6/f:Program.cs" caret="560" fromTop="17" />
+      <File id="3F9289C0-9857-420B-A3B8-FE6F16DE96D6/f:Program.cs" caret="560" fromTop="27" />
+      <File id="3F9289C0-9857-420B-A3B8-FE6F16DE96D6/f:Program.cs" caret="265" fromTop="12" />
+      <File id="3F9289C0-9857-420B-A3B8-FE6F16DE96D6/f:Program.cs" caret="560" fromTop="22" />
+      <File id="3F9289C0-9857-420B-A3B8-FE6F16DE96D6/f:Program.cs" caret="195" fromTop="7" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False" />
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="class" priority="14" />
+      <Item value="string" priority="10" />
+      <Item value="public" priority="17" />
+      <Item value="ExecutionEngineException`0" priority="0" />
+      <Item value="return" priority="3" />
+      <Item value="new" priority="12" />
+      <Item value="D`0" priority="1" />
+      <Item value="where" priority="2" />
+      <Item value="IEnumerable" priority="0" />
+      <Item value="List" priority="1" />
+      <Item value="var" priority="5" />
+      <Item value="private" priority="2" />
+      <Item value="GenAB" priority="2" />
+      <Item value="A`0" priority="3" />
+      <Item value="B" priority="4" />
+      <Item value="list" priority="2" />
+      <Item value="AB`0" priority="1" />
+      <Item value="if" priority="1" />
+      <Item value="typeof" priority="6" />
+      <Item value="Type`0" priority="7" />
+      <Item value="query" priority="0" />
+      <Item value="genericType" priority="0" />
+      <Item value="a" priority="1" />
+      <Item value="generic" priority="2" />
+      <Item value="Activator`0" priority="0" />
+      <Item value="genericObject" priority="0" />
+      <Item value="method" priority="0" />
+      <Item value="AB" priority="0" />
+      <Item value="String`0" priority="2" />
+      <Item value="namespace" priority="0" />
+      <Item value="Name" priority="0" />
+      <Item value="value" priority="0" />
+      <Item value="column" priority="2" />
+      <Item value="Where`1" priority="0" />
+      <Item value="x" priority="0" />
+      <Item value="columnsNames" priority="1" />
+      <Item value="m" priority="0" />
+      <Item value="object" priority="0" />
+      <Item value="result" priority="1" />
+      <Item value="using" priority="0" />
+      <Item value="AutoMapper" priority="1" />
+      <Item value="B`0" priority="2" />
+      <Item value="Mapper`0" priority="2" />
+      <Item value="CC`0" priority="1" />
+      <Item value="dest" priority="0" />
+      <Item value="opt" priority="2" />
+      <Item value="src" priority="2" />
+      <Item value="C" priority="0" />
+      <Item value="c" priority="2" />
+      <Item value="CC" priority="0" />
+      <Item value="System" priority="1" />
+      <Item value="Web" priority="0" />
+      <Item value="List&lt;string&gt;" priority="0" />
+      <Item value="Console`0" priority="3" />
+      <Item value="enum" priority="1" />
+      <Item value="SystemException`0" priority="0" />
+      <Item value="Sex2`0" priority="0" />
+      <Item value="Sex`0" priority="0" />
+      <Item value="Other" priority="0" />
+      <Item value="T`0" priority="1" />
+      <Item value="Random`0" priority="0" />
+      <Item value="S`0" priority="0" />
+      <Item value="IMatch" priority="1" />
+      <Item value="Matching" priority="0" />
+      <Item value="R`0" priority="0" />
+      <Item value="AppDomainSetup`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="4" />
+      <Item value="FindAll`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GenericsReflection.Program+AB">
+      <Item value="GetType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Type">
+      <Item value="GetType`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="MakeGenericType`0" priority="0" />
+      <Item value="GetMethod`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Activator">
+      <Item value="CreateInstance`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="GetType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.MethodInfo">
+      <Item value="Invoke`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:GenericsDynamicsFunction.Program+Country">
+      <Item value="Name" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.Expressions.MemberExpression">
+      <Item value="Member" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.MemberInfo">
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@AutoMapper.Mapper">
+      <Item value="CreateMap`0" priority="0" />
+      <Item value="Map`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AutoMapper.IMappingExpression`2">
+      <Item value="ForMember`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MAAPPER.C">
+      <Item value="name" priority="2" />
+      <Item value="b" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AutoMapper.IMemberConfigurationExpression`1">
+      <Item value="MapFrom`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MAAPPER.CC">
+      <Item value="name" priority="0" />
+      <Item value="b" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="StartsWith`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="ReadKey`0" priority="30" />
+      <Item value="WriteLine`0" priority="162" />
+      <Item value="Write`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MapperEnumTypes.Program+B">
+      <Item value="sex" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MapperEnumTypes.Program+A">
+      <Item value="sex" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MapperEnumTypes.Program+Sex">
+      <Item value="Male" priority="0" />
+      <Item value="Other" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="new" priority="479" />
+      <Item value="ServiceController" priority="28" />
+      <Item value="using" priority="30" />
+      <Item value="x" priority="127" />
+      <Item value="status" priority="31" />
+      <Item value="ServiceReference1" priority="151" />
+      <Item value="FinalisationServiceClient`0" priority="26" />
+      <Item value="FinalisationServiceClient" priority="25" />
+      <Item value="serv" priority="94" />
+      <Item value="string" priority="191" />
+      <Item value="con" priority="31" />
+      <Item value="binding" priority="26" />
+      <Item value="ServiceType`0" priority="31" />
+      <Item value="ThreadStaticAttribute" priority="28" />
+      <Item value="if" priority="95" />
+      <Item value="serCont" priority="255" />
+      <Item value="Stopped" priority="33" />
+      <Item value="try" priority="127" />
+      <Item value="catch" priority="95" />
+      <Item value="Exception`0" priority="159" />
+      <Item value="Console`0" priority="191" />
+      <Item value="e" priority="95" />
+      <Item value="TypedReference`0" priority="31" />
+      <Item value="Equals`0" priority="63" />
+      <Item value="ThreadStaticAttribute`0" priority="63" />
+      <Item value="Thread`0" priority="159" />
+      <Item value="int" priority="288" />
+      <Item value="Timer" priority="57" />
+      <Item value="return" priority="95" />
+      <Item value="true" priority="31" />
+      <Item value="false" priority="63" />
+      <Item value="TryStartService`0" priority="32" />
+      <Item value="Timer`0" priority="31" />
+      <Item value="timer" priority="31" />
+      <Item value="startTimer" priority="127" />
+      <Item value="ElapsedEventHandler" priority="28" />
+      <Item value="Monitor`0" priority="31" />
+      <Item value="_waitHandle" priority="31" />
+      <Item value="finally" priority="63" />
+      <Item value="null" priority="31" />
+      <Item value="var" priority="63" />
+      <Item value="UserScopedSettingAttribute`0" priority="31" />
+      <Item value="String`0" priority="95" />
+      <Item value="password" priority="95" />
+      <Item value="domain" priority="31" />
+      <Item value="user" priority="31" />
+      <Item value="else" priority="31" />
+      <Item value="Action`0" priority="31" />
+      <Item value="action" priority="31" />
+      <Item value="t" priority="31" />
+      <Item value="AppDomain`0" priority="31" />
+      <Item value="Service1Client`0" priority="26" />
+      <Item value="NullReferenceException`0" priority="31" />
+      <Item value="Service1Client" priority="28" />
+      <Item value="client" priority="63" />
+      <Item value="Enumerable`0" priority="63" />
+      <Item value="numbers" priority="63" />
+      <Item value="ParallelEnumerable`0" priority="63" />
+      <Item value="val" priority="31" />
+      <Item value="value" priority="31" />
+      <Item value="private" priority="191" />
+      <Item value="object" priority="89" />
+      <Item value="lock" priority="31" />
+      <Item value="DateTime`0" priority="95" />
+      <Item value="DateTime" priority="57" />
+      <Item value="start" priority="31" />
+      <Item value="end" priority="31" />
+      <Item value="public" priority="159" />
+      <Item value="class" priority="31" />
+      <Item value="classs`0" priority="31" />
+      <Item value="static" priority="31" />
+      <Item value="void" priority="31" />
+      <Item value="IAppDomainSetup`0" priority="95" />
+      <Item value="for" priority="159" />
+      <Item value="#define" priority="31" />
+      <Item value="Exception" priority="84" />
+      <Item value="message" priority="31" />
+      <Item value="throw" priority="63" />
+      <Item value="re" priority="31" />
+      <Item value="n" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ServiceProcess.ServiceController">
+      <Item value="ServiceName" priority="27" />
+      <Item value="MachineName" priority="26" />
+      <Item value="Status" priority="134" />
+      <Item value="Stop`0" priority="81" />
+      <Item value="Start`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:WinServiceStartStop.ServiceReference1.FinalisationServiceClient">
+      <Item value="Finalise`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="54" />
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="CurrentThread" priority="80" />
+      <Item value="SetData`0" priority="26" />
+      <Item value="Sleep`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Timers.Timer">
+      <Item value="Interval" priority="26" />
+      <Item value="Elapsed" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.EventWaitHandle">
+      <Item value="Set`0" priority="26" />
+      <Item value="WaitOne`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Timer">
+      <Item value="Dispose`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Thread">
+      <Item value="ExecutionContext" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.AppDomain">
+      <Item value="GetCurrentThreadId`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:WcfServiceClient.ServiceReference1.Service1Client">
+      <Item value="GetData`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Linq.Enumerable">
+      <Item value="Range`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="AsParallel`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Tasks.Parallel">
+      <Item value="ForEach`1" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="DateTime" priority="25" />
+      <Item value="Now" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

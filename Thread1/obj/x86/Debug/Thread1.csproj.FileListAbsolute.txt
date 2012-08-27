@@ -1,0 +1,10 @@
+M:\Visual Studio 2010 Workspace\Playground\Thread1\bin\Debug\Thread1.exe
+M:\Visual Studio 2010 Workspace\Playground\Thread1\bin\Debug\Thread1.pdb
+M:\Visual Studio 2010 Workspace\Playground\Thread1\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\Visual Studio 2010 Workspace\Playground\Thread1\obj\x86\Debug\Thread1.exe
+M:\Visual Studio 2010 Workspace\Playground\Thread1\obj\x86\Debug\Thread1.pdb
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\Thread1\bin\Debug\Thread1.exe
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\Thread1\bin\Debug\Thread1.pdb
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\Thread1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\Thread1\obj\x86\Debug\Thread1.exe
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\Thread1\obj\x86\Debug\Thread1.pdb

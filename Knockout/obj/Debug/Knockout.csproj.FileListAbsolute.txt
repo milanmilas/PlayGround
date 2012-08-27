@@ -1,0 +1,21 @@
+M:\Visual Studio 2010 Workspace\Playground\Knockout\bin\Knockout.dll
+M:\Visual Studio 2010 Workspace\Playground\Knockout\bin\Knockout.pdb
+M:\Visual Studio 2010 Workspace\Playground\Knockout\bin\EntityFramework.dll
+M:\Visual Studio 2010 Workspace\Playground\Knockout\bin\EntityFramework.xml
+M:\Visual Studio 2010 Workspace\Playground\Knockout\obj\Debug\ResolveAssemblyReference.cache
+M:\Visual Studio 2010 Workspace\Playground\Knockout\obj\Debug\Knockout.dll
+M:\Visual Studio 2010 Workspace\Playground\Knockout\obj\Debug\Knockout.pdb
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\Knockout\bin\Knockout.dll
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\Knockout\bin\Knockout.pdb
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\Knockout\bin\EntityFramework.dll
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\Knockout\bin\EntityFramework.xml
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\Knockout\obj\Debug\ResolveAssemblyReference.cache
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\Knockout\obj\Debug\Knockout.dll
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\Knockout\obj\Debug\Knockout.pdb
+C:\Users\Admin\Dropbox\Documents\Programming\Projects\Playground\Knockout\bin\Knockout.dll
+C:\Users\Admin\Dropbox\Documents\Programming\Projects\Playground\Knockout\bin\Knockout.pdb
+C:\Users\Admin\Dropbox\Documents\Programming\Projects\Playground\Knockout\bin\EntityFramework.dll
+C:\Users\Admin\Dropbox\Documents\Programming\Projects\Playground\Knockout\bin\EntityFramework.xml
+C:\Users\Admin\Dropbox\Documents\Programming\Projects\Playground\Knockout\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Dropbox\Documents\Programming\Projects\Playground\Knockout\obj\Debug\Knockout.dll
+C:\Users\Admin\Dropbox\Documents\Programming\Projects\Playground\Knockout\obj\Debug\Knockout.pdb

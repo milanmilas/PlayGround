@@ -1,0 +1,12 @@
+M:\Visual Studio 2010 Workspace\Playground\GenericsReflection\bin\Debug\GenericsReflection.exe
+M:\Visual Studio 2010 Workspace\Playground\GenericsReflection\bin\Debug\GenericsReflection.pdb
+M:\Visual Studio 2010 Workspace\Playground\GenericsReflection\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\Visual Studio 2010 Workspace\Playground\GenericsReflection\obj\x86\Debug\GenericsReflection.exe
+M:\Visual Studio 2010 Workspace\Playground\GenericsReflection\obj\x86\Debug\GenericsReflection.pdb
+C:\Users\Admin\Dropbox\Documents\Programming\Projects\Playground\GenericsReflection\obj\x86\Debug\GenericsReflection.exe
+C:\Users\Admin\Dropbox\Documents\Programming\Projects\Playground\GenericsReflection\obj\x86\Debug\GenericsReflection.pdb
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\GenericsReflection\obj\x86\Debug\GenericsReflection.exe
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\GenericsReflection\obj\x86\Debug\GenericsReflection.pdb
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\GenericsReflection\bin\Debug\GenericsReflection.exe
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\GenericsReflection\bin\Debug\GenericsReflection.pdb
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\GenericsReflection\obj\x86\Debug\ResolveAssemblyReference.cache

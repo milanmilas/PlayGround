@@ -1,0 +1,12 @@
+M:\Visual Studio 2010 Workspace\Playground\WinServiceStartStop\bin\Debug\WinServiceStartStop.exe
+M:\Visual Studio 2010 Workspace\Playground\WinServiceStartStop\bin\Debug\WinServiceStartStop.pdb
+M:\Visual Studio 2010 Workspace\Playground\WinServiceStartStop\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\Visual Studio 2010 Workspace\Playground\WinServiceStartStop\obj\x86\Debug\WinServiceStartStop.exe
+M:\Visual Studio 2010 Workspace\Playground\WinServiceStartStop\obj\x86\Debug\WinServiceStartStop.pdb
+M:\Visual Studio 2010 Workspace\Playground\WinServiceStartStop\bin\Debug\WinServiceStartStop.exe.config
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\WinServiceStartStop\bin\Debug\WinServiceStartStop.exe.config
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\WinServiceStartStop\bin\Debug\WinServiceStartStop.exe
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\WinServiceStartStop\bin\Debug\WinServiceStartStop.pdb
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\WinServiceStartStop\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\WinServiceStartStop\obj\x86\Debug\WinServiceStartStop.exe
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\WinServiceStartStop\obj\x86\Debug\WinServiceStartStop.pdb

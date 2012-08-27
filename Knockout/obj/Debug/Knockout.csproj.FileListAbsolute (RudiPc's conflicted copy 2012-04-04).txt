@@ -1,0 +1,7 @@
+M:\Visual Studio 2010 Workspace\Playground\Knockout\bin\Knockout.dll
+M:\Visual Studio 2010 Workspace\Playground\Knockout\bin\Knockout.pdb
+M:\Visual Studio 2010 Workspace\Playground\Knockout\bin\EntityFramework.dll
+M:\Visual Studio 2010 Workspace\Playground\Knockout\bin\EntityFramework.xml
+M:\Visual Studio 2010 Workspace\Playground\Knockout\obj\Debug\ResolveAssemblyReference.cache
+M:\Visual Studio 2010 Workspace\Playground\Knockout\obj\Debug\Knockout.dll
+M:\Visual Studio 2010 Workspace\Playground\Knockout\obj\Debug\Knockout.pdb

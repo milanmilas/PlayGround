@@ -1,0 +1,10 @@
+M:\Visual Studio 2010 Workspace\Playground\GacFinalisation\bin\Debug\GacFinalisation.exe
+M:\Visual Studio 2010 Workspace\Playground\GacFinalisation\bin\Debug\GacFinalisation.pdb
+M:\Visual Studio 2010 Workspace\Playground\GacFinalisation\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\Visual Studio 2010 Workspace\Playground\GacFinalisation\obj\x86\Debug\GacFinalisation.exe
+M:\Visual Studio 2010 Workspace\Playground\GacFinalisation\obj\x86\Debug\GacFinalisation.pdb
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\GacFinalisation\bin\Debug\GacFinalisation.exe
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\GacFinalisation\bin\Debug\GacFinalisation.pdb
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\GacFinalisation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\GacFinalisation\obj\x86\Debug\GacFinalisation.exe
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\GacFinalisation\obj\x86\Debug\GacFinalisation.pdb

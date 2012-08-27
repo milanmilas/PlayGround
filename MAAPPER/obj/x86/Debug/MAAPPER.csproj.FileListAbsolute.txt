@@ -1,0 +1,14 @@
+M:\Visual Studio 2010 Workspace\Playground\MAAPPER\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\Visual Studio 2010 Workspace\Playground\MAAPPER\bin\Debug\MAAPPER.exe.config
+M:\Visual Studio 2010 Workspace\Playground\MAAPPER\bin\Debug\MAAPPER.exe
+M:\Visual Studio 2010 Workspace\Playground\MAAPPER\bin\Debug\MAAPPER.pdb
+M:\Visual Studio 2010 Workspace\Playground\MAAPPER\bin\Debug\AutoMapper.dll
+M:\Visual Studio 2010 Workspace\Playground\MAAPPER\obj\x86\Debug\MAAPPER.exe
+M:\Visual Studio 2010 Workspace\Playground\MAAPPER\obj\x86\Debug\MAAPPER.pdb
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\MAAPPER\bin\Debug\MAAPPER.exe.config
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\MAAPPER\bin\Debug\MAAPPER.exe
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\MAAPPER\bin\Debug\MAAPPER.pdb
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\MAAPPER\bin\Debug\AutoMapper.dll
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\MAAPPER\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\MAAPPER\obj\x86\Debug\MAAPPER.exe
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\MAAPPER\obj\x86\Debug\MAAPPER.pdb

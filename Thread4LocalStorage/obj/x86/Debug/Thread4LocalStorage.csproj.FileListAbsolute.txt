@@ -1,0 +1,10 @@
+M:\Visual Studio 2010 Workspace\Playground\Thread4LocalStorage\bin\Debug\Thread4LocalStorage.exe
+M:\Visual Studio 2010 Workspace\Playground\Thread4LocalStorage\bin\Debug\Thread4LocalStorage.pdb
+M:\Visual Studio 2010 Workspace\Playground\Thread4LocalStorage\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\Visual Studio 2010 Workspace\Playground\Thread4LocalStorage\obj\x86\Debug\Thread4LocalStorage.exe
+M:\Visual Studio 2010 Workspace\Playground\Thread4LocalStorage\obj\x86\Debug\Thread4LocalStorage.pdb
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\Thread4LocalStorage\bin\Debug\Thread4LocalStorage.exe
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\Thread4LocalStorage\bin\Debug\Thread4LocalStorage.pdb
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\Thread4LocalStorage\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\Thread4LocalStorage\obj\x86\Debug\Thread4LocalStorage.exe
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\Thread4LocalStorage\obj\x86\Debug\Thread4LocalStorage.pdb

@@ -1,0 +1,9 @@
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\NHibernareUnitOfWotk\bin\Debug\NHibernareUnitOfWotk.exe
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\NHibernareUnitOfWotk\bin\Debug\NHibernareUnitOfWotk.pdb
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\NHibernareUnitOfWotk\bin\Debug\Iesi.Collections.dll
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\NHibernareUnitOfWotk\bin\Debug\NHibernate.dll
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\NHibernareUnitOfWotk\bin\Debug\Iesi.Collections.xml
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\NHibernareUnitOfWotk\bin\Debug\NHibernate.xml
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\NHibernareUnitOfWotk\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\NHibernareUnitOfWotk\obj\x86\Debug\NHibernareUnitOfWotk.exe
+C:\DropBox\Dropbox\Documents\Programming\Projects\Playground\NHibernareUnitOfWotk\obj\x86\Debug\NHibernareUnitOfWotk.pdb
